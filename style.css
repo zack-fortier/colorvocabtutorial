@@ -1,0 +1,31 @@
+/* Make all id correspond with its Spanish color counterpart */
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue; 
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+/* Change all color titles to have font weight normal */
+.color-title {
+    font-weight: normal;
+}
+
+/* Change images to have 200 px height and 200 px width */
+img {
+    height: 200px;
+    width: 200px;
+}
